@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/websiteku/static/css/main.5f361e03.chunk.css",
+    "main.js": "/websiteku/static/js/main.c130fbbf.chunk.js",
+    "main.js.map": "/websiteku/static/js/main.c130fbbf.chunk.js.map",
+    "runtime-main.js": "/websiteku/static/js/runtime-main.c31b2818.js",
+    "runtime-main.js.map": "/websiteku/static/js/runtime-main.c31b2818.js.map",
+    "static/css/2.c0a66342.chunk.css": "/websiteku/static/css/2.c0a66342.chunk.css",
+    "static/js/2.3ed4c77f.chunk.js": "/websiteku/static/js/2.3ed4c77f.chunk.js",
+    "static/js/2.3ed4c77f.chunk.js.map": "/websiteku/static/js/2.3ed4c77f.chunk.js.map",
+    "index.html": "/websiteku/index.html",
+    "precache-manifest.45c908db2248fe434337033d2b8085bf.js": "/websiteku/precache-manifest.45c908db2248fe434337033d2b8085bf.js",
+    "service-worker.js": "/websiteku/service-worker.js",
+    "static/css/2.c0a66342.chunk.css.map": "/websiteku/static/css/2.c0a66342.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/websiteku/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3ed4c77f.chunk.js.LICENSE.txt": "/websiteku/static/js/2.3ed4c77f.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/websiteku/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/websiteku/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c31b2818.js",
+    "static/css/2.c0a66342.chunk.css",
+    "static/js/2.3ed4c77f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c130fbbf.chunk.js"
+  ]
+}
